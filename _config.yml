@@ -12,12 +12,10 @@ disqus_shortname:   default
 # Social
 analytics-id:       
 twitter:            "academy_saints"
-instagram:          "AllSaintAcademy"
+pixfed:             "AllSaintAcademy"
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
 email:              info.AllSaintsAcademy@Yandex.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
