@@ -1,10 +1,16 @@
 # Site
 title:              All Saints Academy
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+name:               All Saints Academy
+bio:                'The offical ASA Blog...'
+description:        "The offical ASA Blog..."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://AllSaintsAcademy.github.io" # the base hostname & protocol for your site
+
+# RSS
+feed_items: 15
+feed_update_period: daily
+feed_update_frequency: 1
 
 # Comments
 disqus_shortname:   default
