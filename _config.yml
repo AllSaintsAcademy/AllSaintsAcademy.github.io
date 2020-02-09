@@ -11,7 +11,7 @@ url: "https://AllSaintsAcademy.github.io" # the base hostname & protocol for you
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
-RSS: "feed.xml
+RSS: "feed.xml"
 
 # Comments
 disqus_shortname:   default
