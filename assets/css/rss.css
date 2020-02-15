@@ -15,6 +15,12 @@ channel > title {
 	font-weight: bold;
 	margin: 10px 0px;
 }
+
+channel > title {
+	<img src="/images/ASALogo.png" alt="ASALogo" height="42" width="42">
+	margin: 10px 0px;
+}
+
 channel {
 	width: 728px;
 	margin-left: auto;
