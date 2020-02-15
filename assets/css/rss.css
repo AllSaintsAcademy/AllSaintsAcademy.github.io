@@ -11,6 +11,8 @@ rss {
 	font-size: 13px;
 }
 channel > title {
+	border-style: solid;
+	border-color: #282b2e;
 	font-size: 24px;
 	font-weight: bold;
 	margin: 10px 0px;
