@@ -20,9 +20,9 @@ styledimg {
 
 background-image: url(/images/ASA-Logo.png);
 background-repeat: no-repeat;
-margin: 10px 0px;
-
-
+max-width: 100%;
+height: auto;
+width: auto\9; /* ie8 */
 
 }
 
