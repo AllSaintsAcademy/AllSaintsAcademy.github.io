@@ -16,8 +16,19 @@ channel > title {
 	margin: 10px 0px;
 }
 
+styledimg {
+
+background-image: url(/images/ASA-Logo.png);
+background-repeat: no-repeat;
+margin: 10px 0px;
+
+
+
+}
+
 channel > title {
-	<img src="/images/ASALogo.png" alt="ASALogo" height="42" width="42">
+	#ASA-Logo
+	<img id="ASA-Logo" src="/images/ASA-Logo.png" alt="ASA Logo" />
 	margin: 10px 0px;
 }
 
